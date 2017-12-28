@@ -1,0 +1,13 @@
+*{margin:0;padding:0;}
+a:hover{background-color:rgb(104,104,104);color:white;}
+#header {background-color:rgb(209,136,27);color:black;top:0px;left:0px;right:0px;padding-right:50px;height:10px;position:fixed;font-size:17px;}
+#header a:hover{background-color:rgb(234,175,87);border:dotted 1px;border-color:rgba(150,169,89,0.8);}
+#header a{background-color:rgb(139,253,33);}
+#header p{top:0px;padding-top:3px;}
+/*a{background-color:blue;color:white;}*/
+.links a{color:rgb(2,64,210);font-size:15px;font-family:Verdana, Geneva, sans-serif;}
+.links a:hover{background-color:rgba(125,116,170,0.59);font-family:Verdana, Geneva, sans-serif;font-size:16px;}
+#url{float:bottom;position:relative;left:500px;width:300px;overflow:hidden;height:20px;display:none;top:10px;}
+#main{top:60px;position:absolute;background:url("../images/main_bkg.JPG");left:3px;right:3px;padding-top:10px;padding-left:5px;}
+#ad{float:right;position:absolute;scroll:auto;top:10px;right:0px;background:url("../images/main_bkg.JPG");width:160px;height:'inherit';}
+body {background:url("../images/body_bkg.JPG");padding-top:10px;}
